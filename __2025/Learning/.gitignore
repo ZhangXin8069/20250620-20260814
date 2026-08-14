@@ -1,0 +1,51 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Custom
+*build
+*CMakeFiles
+*cmake_install.cmake
+*CMakeCache.txt
+*'"clangd.format.tabSize": 4'
+*.ipynb_checkpoints
+*.vscode
+*.png
+*.jpg
+*.jpeg
+*data
+#*.pdf
+*bin
+*ppt
+*.ppt
+*.pptx
+*.zip

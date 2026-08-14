@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# 嵌套 git 仓库元数据（_git 而非 .git, git 不会自动忽略）
+_git/
+*.pack
+*.idx
+
+# 构建缓存归档（Gitee 单文件上限 100MB）
+chroma_jit_packages.tar.gz
