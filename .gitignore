@@ -221,6 +221,5 @@ __marimo__/
 _git/
 *.pack
 *.idx
-
-# 构建缓存归档（Gitee 单文件上限 100MB）
-chroma_jit_packages.tar.gz
+*.list
+*.log
